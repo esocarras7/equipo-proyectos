@@ -31,7 +31,7 @@ Este proyecto usa las siguientes tecnologías:
 
 ## Inicio rápido
 
-Levantar y correr el servidor de desarrollo usando los siguientes comandos
+Levantar y correr el servidor de desarrollo usando los siguientes comandos en un terminal
 
 ```javascript
 // Instala todas las dependencias para el cliente y el servidor
